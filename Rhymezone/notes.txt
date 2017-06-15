@@ -1,0 +1,3 @@
+http://answers.unity3d.com/questions/165729/editing-height-relative-to-audio-levels.html
+
+http://answers.unity3d.com/questions/1167177/how-do-i-get-the-current-volume-level-amplitude-of.html
